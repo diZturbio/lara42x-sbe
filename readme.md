@@ -1,3 +1,4 @@
-## Laravel 4 tutorial site
+lara42x-sbe
+===========
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bstrahija/l4-site-tutorial/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Laravel 4.2 simple Site with Backend
