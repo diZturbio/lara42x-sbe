@@ -8,7 +8,7 @@
 		"cartalyst/sentry": "2.1.*",
 		"dflydev/markdown": "v1.0.2",
 		"imagine/Imagine": "v0.4.1",
-		"edvinaskrucas/notification": "2.*"
+		"edvinaskrucas/notification": "3.*"
 	},
 	"require-dev": {
     	"way/generators": "2.*"
